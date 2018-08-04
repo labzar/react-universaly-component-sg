@@ -28,4 +28,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [labzar](https://github.com/labzar)
+MIT [labzar](https://github.com/labzar)
